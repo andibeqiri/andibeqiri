@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hey, I'm Andi 👋
 
 I'm a software engineer based in Tirana, Albania 🇦🇱 — mostly building mobile apps using Swift and Kotlin
